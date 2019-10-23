@@ -1,4 +1,6 @@
 # liuguang
 githubfirstrespository
 echo "helloworld"
-ECHO "HELLOWORLD
+
+
+这啥教程啊兄弟
